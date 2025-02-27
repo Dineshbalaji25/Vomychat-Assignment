@@ -39,13 +39,13 @@ cd linktr-backend
 ## Virtual Environment Setup
 Create a virtual environment and activate it:
 
-#Create a virtual environment (using venv)
+<h3>Create a virtual environment (using venv)</h3>
 python -m venv env
 
-#Activate the virtual environment (Windows)
+<h3>Activate the virtual environment (Windows)<h3>
 env\Scripts\activate
 
-#Activate the virtual environment (macOS/Linux)
+<h3>Activate the virtual environment (macOS/Linux)</h3>
 source env/bin/activate
 
 ## configure email backend
